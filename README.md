@@ -3,7 +3,7 @@ first you need to give the appropriate permissions for these two files...
 
 open the terminal >>>  locate the files >>> 
 
-**sudo chmod +x ***
+** sudo chmod +x * **
 
 sudo ./<filename.sh>
 
